@@ -4,7 +4,6 @@ from datetime import datetime
 import shutil
 import openpyxl 
 
-# ARQUIVOS PAYTRUE
 pasta_downloads = os.path.expanduser("~/Downloads")
 pasta_destino = r"digite sua pasta"
 padrao_nome = "202601 -"
