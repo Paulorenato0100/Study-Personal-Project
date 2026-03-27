@@ -1,3 +1,25 @@
+RELATORIO AUTOMATICO
+
+Data de registro: 27/03/2026
+Hora de registro: 16:36:05
+
+Registro para teste RPA.
+Execucao realizada com sucesso
+
+Conteudo adicional
+Conteudo adicional
+
+Data de registro: 27/03/2026
+Hora de registro: 16:36:05
+
+Conteudo adicional
+Conteudo adicional
+
+Data de registro: 27/03/2026
+Hora de registro: 16:36:05
+
+Finalizacao de testes
+.
 RELATORIO AUTOMATIZADO
 
 Total de registros: 10

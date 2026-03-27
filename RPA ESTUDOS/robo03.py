@@ -39,14 +39,7 @@ class OrgDesk:
         lista = os.listdir(self.base_path)
         print(f'arquivos listados: {lista}')
 
-        for arquivos in lista:
-            if arquivos.endswith(".pdf"):
-                shutil.move(self.pdfs)
-            elif arquivos.endswith(".")
-
-
-
-        
-
-
-
+        # for arquivos in lista:
+        #     if arquivos.endswith(".pdf"):
+        #         shutil.move(self.pdfs)
+        #     elif arquivos.endswith(".")
