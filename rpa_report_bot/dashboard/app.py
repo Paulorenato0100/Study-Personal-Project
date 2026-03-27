@@ -10,7 +10,6 @@ st.title("📊 Dashboard Automatizado - RPA")
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 output_path = os.path.join(base_dir, "output")
 
-# 🔥 FILTRO CORRETO (resolve seu erro)
 files = [
     f for f in os.listdir(output_path)
     if f.endswith(".xlsx") and not f.startswith("~$")
